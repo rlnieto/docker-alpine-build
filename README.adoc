@@ -1,4 +1,4 @@
 Ficheros:
 
 * *Dockerfile:* crea una imagen de alpine con las herramientas necesarias para compilar la distro
-* +alpine-exec.sh:* arranca el contenedor de alpine con las herramientas de compilación (lo descarga desde quay.io)
+* *alpine-exec.sh:* arranca el contenedor de alpine con las herramientas de compilación (lo descarga desde quay.io)
